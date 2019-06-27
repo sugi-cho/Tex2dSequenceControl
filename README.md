@@ -1,6 +1,6 @@
 # Tex2D Sequence Control
 
-Generating `Texture2DArray` via sequential textures
+Generating `Texture2DArray` from sequential textures
 
 ![sequential](sequential_textures.jpg)
 
